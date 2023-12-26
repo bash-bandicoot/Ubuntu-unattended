@@ -1,1 +1,1 @@
-# Ubuntu Internet-based thin ISO method
+Ubuntu Internet-based thin ISO installation method
