@@ -1,1 +1,1 @@
-Ubuntu Internet-based thin ISO installation method
+100% working Ubuntu Autoinstall method
